@@ -5,6 +5,7 @@ justfile
 state.json
 config.json
 .agent/
+worktrees/
 
 *.3ds
 *.3dsx
