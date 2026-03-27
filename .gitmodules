@@ -1,0 +1,6 @@
+[submodule "reference/ctrdecrypt"]
+	path = reference/ctrdecrypt
+	url = https://github.com/shijimasoft/ctrdecrypt.git
+[submodule "reference/upstream"]
+	path = reference/upstream
+	url = https://github.com/shijimasoft/cia-unix.git

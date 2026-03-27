@@ -1,0 +1,16 @@
+target/
+bin/
+logs/
+justfile
+state.json
+config.json
+
+*.3ds
+*.3dsx
+*.cia
+*.cci
+*.cxi
+*.app
+*.ncch
+
+.DS_Store
